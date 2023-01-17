@@ -14,7 +14,7 @@
               <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
               <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
               </h1>
-          <p class="mb-4">We have collected the best offers of credit institutions and banks
+          <p class="mb-4">We have collected the best  of credit institutions and banks
             <br>of Colombia. It remains to choose what suits you as fast as you.</p> <a type="button"
             class="btn btn-primary" href="#" data-bs-toggle="modal" data-bs-target="#applyLoan">Apply
             Loan Now <span style="font-size: 14px;" class="ms-2 fas fa-arrow-right"></span></a>
