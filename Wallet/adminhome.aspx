@@ -11,7 +11,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="card gradient-1">
                             <div class="card-body">
-                                <h3 class="card-title text-white">Products Sold</h3>
+                                <h3 class="card-title text-white">Products</h3>
                                 <div class="d-inline-block">
                                     <h2 class="text-white">
                                         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
